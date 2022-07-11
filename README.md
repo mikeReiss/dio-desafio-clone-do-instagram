@@ -1,2 +1,2 @@
-# dio-desafio-clone-do-instagram
-Clone da página de login do instagram
+# Clone da página de login do instagram
+# Desafio de projeto da Dio
